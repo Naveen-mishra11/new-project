@@ -21,6 +21,10 @@ we use => git branch
 # If the branch name is not main
 we use => git branch -M main
 
-# To push the repositary
+# To push  file on the repositary
 we use => git push origin main
+
+# To push th file on the repository without using main every time
+we use => git push -u origin main
+and after if we have to push anything simply use => git push
 

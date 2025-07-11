@@ -28,3 +28,5 @@ we use => git push origin main
 we use => git push -u origin main
 and after if we have to push anything simply use => git push.
 
+# To add and commit at same time 
+we use => git commit -am "(Some message about file changing)".
